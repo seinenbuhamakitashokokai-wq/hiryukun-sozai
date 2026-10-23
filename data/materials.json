@@ -1055,144 +1055,144 @@
  },
  {
   "id": "iro-b22-red",
-  "title": "火を吹く(両側)・赤(いつもの色)",
+  "title": "火を吹く(横)・赤(いつもの色)",
   "category": "iro",
   "tags": [
    "全身",
    "火を吹く",
-   "横長",
-   "赤"
+   "赤",
+   "横長"
   ],
-  "w": 837,
-  "h": 727,
+  "w": 725,
+  "h": 728,
   "file": "materials/iro/iro-b22-red.png",
   "thumb": "materials/iro/thumb/iro-b22-red.png",
   "left": "materials/iro/iro-b22-red_left.png"
  },
  {
   "id": "iro-b22-green",
-  "title": "火を吹く(両側)・緑",
+  "title": "火を吹く(横)・緑",
   "category": "iro",
   "tags": [
    "全身",
    "火を吹く",
-   "横長",
-   "緑"
+   "緑",
+   "横長"
   ],
-  "w": 837,
-  "h": 727,
+  "w": 725,
+  "h": 728,
   "file": "materials/iro/iro-b22-green.png",
   "thumb": "materials/iro/thumb/iro-b22-green.png",
   "left": "materials/iro/iro-b22-green_left.png"
  },
  {
   "id": "iro-b22-blue",
-  "title": "火を吹く(両側)・青",
+  "title": "火を吹く(横)・青",
   "category": "iro",
   "tags": [
    "全身",
    "火を吹く",
-   "横長",
-   "青"
+   "青",
+   "横長"
   ],
-  "w": 837,
-  "h": 727,
+  "w": 725,
+  "h": 728,
   "file": "materials/iro/iro-b22-blue.png",
   "thumb": "materials/iro/thumb/iro-b22-blue.png",
   "left": "materials/iro/iro-b22-blue_left.png"
  },
  {
   "id": "iro-b22-black",
-  "title": "火を吹く(両側)・黒",
+  "title": "火を吹く(横)・黒",
   "category": "iro",
   "tags": [
    "全身",
    "火を吹く",
-   "横長",
-   "黒"
+   "黒",
+   "横長"
   ],
-  "w": 837,
-  "h": 727,
+  "w": 725,
+  "h": 728,
   "file": "materials/iro/iro-b22-black.png",
   "thumb": "materials/iro/thumb/iro-b22-black.png",
   "left": "materials/iro/iro-b22-black_left.png"
  },
  {
   "id": "iro-b22-white",
-  "title": "火を吹く(両側)・白",
+  "title": "火を吹く(横)・白",
   "category": "iro",
   "tags": [
    "全身",
    "火を吹く",
-   "横長",
-   "白"
+   "白",
+   "横長"
   ],
-  "w": 837,
-  "h": 727,
+  "w": 725,
+  "h": 728,
   "file": "materials/iro/iro-b22-white.png",
   "thumb": "materials/iro/thumb/iro-b22-white.png",
   "left": "materials/iro/iro-b22-white_left.png"
  },
  {
   "id": "iro-b22-pink",
-  "title": "火を吹く(両側)・ピンク",
+  "title": "火を吹く(横)・ピンク",
   "category": "iro",
   "tags": [
    "全身",
    "火を吹く",
-   "横長",
-   "ピンク"
+   "ピンク",
+   "横長"
   ],
-  "w": 837,
-  "h": 727,
+  "w": 725,
+  "h": 728,
   "file": "materials/iro/iro-b22-pink.png",
   "thumb": "materials/iro/thumb/iro-b22-pink.png",
   "left": "materials/iro/iro-b22-pink_left.png"
  },
  {
   "id": "iro-b22-gold",
-  "title": "火を吹く(両側)・ゴールド",
+  "title": "火を吹く(横)・ゴールド",
   "category": "iro",
   "tags": [
    "全身",
    "火を吹く",
-   "横長",
-   "ゴールド"
+   "ゴールド",
+   "横長"
   ],
-  "w": 837,
-  "h": 727,
+  "w": 725,
+  "h": 728,
   "file": "materials/iro/iro-b22-gold.png",
   "thumb": "materials/iro/thumb/iro-b22-gold.png",
   "left": "materials/iro/iro-b22-gold_left.png"
  },
  {
   "id": "iro-b22-silver",
-  "title": "火を吹く(両側)・シルバー",
+  "title": "火を吹く(横)・シルバー",
   "category": "iro",
   "tags": [
    "全身",
    "火を吹く",
-   "横長",
-   "シルバー"
+   "シルバー",
+   "横長"
   ],
-  "w": 837,
-  "h": 727,
+  "w": 725,
+  "h": 728,
   "file": "materials/iro/iro-b22-silver.png",
   "thumb": "materials/iro/thumb/iro-b22-silver.png",
   "left": "materials/iro/iro-b22-silver_left.png"
  },
  {
   "id": "iro-b22-rainbow",
-  "title": "火を吹く(両側)・虹",
+  "title": "火を吹く(横)・虹",
   "category": "iro",
   "tags": [
    "全身",
    "火を吹く",
-   "横長",
-   "虹"
+   "虹",
+   "横長"
   ],
-  "w": 837,
-  "h": 727,
+  "w": 725,
+  "h": 728,
   "file": "materials/iro/iro-b22-rainbow.png",
   "thumb": "materials/iro/thumb/iro-b22-rainbow.png",
   "left": "materials/iro/iro-b22-rainbow_left.png"
