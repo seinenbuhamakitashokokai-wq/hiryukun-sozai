@@ -1,5 +1,5 @@
 // 素材一覧の表示と絞り込み
-const CAT_LABEL = {kihon:'基本', pose:'24ポーズ', kao:'顔アップ', kokuchi:'告知・お知らせ', matsuri:'お祭り', kisetsu:'季節', logo:'ロゴ文字'};
+const CAT_LABEL = {kihon:'基本', pose:'24ポーズ', kao:'顔アップ', kokuchi:'告知・お知らせ', matsuri:'お祭り', kisetsu:'季節', iro:'色違い', logo:'ロゴ文字'};
 let items = [], cat = 'all', tag = '';
 
 // 選んだカテゴリにない形は押せないようにし、ボタンに点数を出す
