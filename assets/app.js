@@ -2,7 +2,22 @@
 const CAT_LABEL = {kihon:'基本', pose:'24ポーズ', kao:'顔アップ', kokuchi:'告知・お知らせ', matsuri:'お祭り', kisetsu:'季節', logo:'ロゴ文字'};
 let items = [], cat = 'all', tag = '';
 
+// 選んだカテゴリにない形は押せないようにし、ボタンに点数を出す
+function updateTags() {
+  const inCat = items.filter(r => cat === 'all' || r.category === cat);
+  document.querySelectorAll('.tags button').forEach(b => {
+    const t = b.dataset.tag;
+    if (!b.dataset.label) b.dataset.label = b.textContent;
+    const n = t ? inCat.filter(r => r.tags.includes(t)).length : inCat.length;
+    b.textContent = `${b.dataset.label}(${n})`;
+    b.disabled = n === 0;
+    if (n === 0 && tag === t) { tag = ''; }
+  });
+  document.querySelectorAll('.tags button').forEach(b => b.classList.toggle('on', b.dataset.tag === tag));
+}
+
 function render() {
+  updateTags();
   const grid = document.getElementById('grid');
   const list = items.filter(r => (cat === 'all' || r.category === cat) && (!tag || r.tags.includes(tag)));
   document.getElementById('count').textContent = `${list.length}点`;
