@@ -8,7 +8,7 @@ function updateTags() {
   document.querySelectorAll('.tags button').forEach(b => {
     const t = b.dataset.tag;
     if (!b.dataset.label) b.dataset.label = b.textContent;
-    const n = t ? inCat.filter(r => r.tags.includes(t)).length : inCat.length;
+    const n = t ? inCat.filter(r => t === 'SVG' ? !!r.svg : r.tags.includes(t)).length : inCat.length;
     b.textContent = `${b.dataset.label}(${n})`;
     b.disabled = n === 0;
     if (n === 0 && tag === t) { tag = ''; }
@@ -19,7 +19,7 @@ function updateTags() {
 function render() {
   updateTags();
   const grid = document.getElementById('grid');
-  const list = items.filter(r => (cat === 'all' || r.category === cat) && (!tag || r.tags.includes(tag)));
+  const list = items.filter(r => (cat === 'all' || r.category === cat) && (!tag || (tag === 'SVG' ? !!r.svg : r.tags.includes(tag))));
   document.getElementById('count').textContent = `${list.length}点`;
   grid.innerHTML = '';
   if (!list.length) { grid.innerHTML = '<p>この条件の素材は、まだありません。</p>'; return; }
@@ -35,6 +35,7 @@ function render() {
         <div class="card-actions">
           <a class="btn small primary" href="${r.file}" download="${name}">ダウンロード</a>
           ${r.left ? `<a class="btn small" href="${r.left}" download="${r.left.split('/').pop()}">左向き</a>` : ''}
+          ${r.svg ? `<a class="btn small" href="${r.svg}" download="${r.svg.split('/').pop()}" title="大きく印刷しても荒れない形式">SVG</a>` : ''}
         </div>
       </div>`;
     grid.appendChild(card);

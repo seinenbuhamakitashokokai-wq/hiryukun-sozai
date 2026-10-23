@@ -11,7 +11,8 @@
   "h": 727,
   "file": "materials/kihon/kihon-zenshin.png",
   "thumb": "materials/kihon/thumb/kihon-zenshin.png",
-  "left": "materials/kihon/kihon-zenshin_left.png"
+  "left": "materials/kihon/kihon-zenshin_left.png",
+  "svg": "materials/kihon/kihon-zenshin.svg"
  },
  {
   "id": "kihon-joshin",
@@ -24,7 +25,8 @@
   "h": 449,
   "file": "materials/kihon/kihon-joshin.png",
   "thumb": "materials/kihon/thumb/kihon-joshin.png",
-  "left": "materials/kihon/kihon-joshin_left.png"
+  "left": "materials/kihon/kihon-joshin_left.png",
+  "svg": "materials/kihon/kihon-joshin.svg"
  },
  {
   "id": "kihon-kao",
@@ -37,7 +39,8 @@
   "h": 414,
   "file": "materials/kihon/kihon-kao.png",
   "thumb": "materials/kihon/thumb/kihon-kao.png",
-  "left": "materials/kihon/kihon-kao_left.png"
+  "left": "materials/kihon/kihon-kao_left.png",
+  "svg": "materials/kihon/kihon-kao.svg"
  },
  {
   "id": "pose-01",
@@ -64,7 +67,8 @@
   "h": 727,
   "file": "materials/pose/pose-02.png",
   "thumb": "materials/pose/thumb/pose-02.png",
-  "left": "materials/pose/pose-02_left.png"
+  "left": "materials/pose/pose-02_left.png",
+  "svg": "materials/pose/pose-02.svg"
  },
  {
   "id": "pose-03",
@@ -116,7 +120,8 @@
   "h": 727,
   "file": "materials/pose/pose-06.png",
   "thumb": "materials/pose/thumb/pose-06.png",
-  "left": "materials/pose/pose-06_left.png"
+  "left": "materials/pose/pose-06_left.png",
+  "svg": "materials/pose/pose-06.svg"
  },
  {
   "id": "pose-07",
@@ -157,7 +162,8 @@
   "h": 734,
   "file": "materials/pose/pose-09.png",
   "thumb": "materials/pose/thumb/pose-09.png",
-  "left": "materials/pose/pose-09_left.png"
+  "left": "materials/pose/pose-09_left.png",
+  "svg": "materials/pose/pose-09.svg"
  },
  {
   "id": "pose-10",
@@ -481,7 +487,8 @@
   "h": 726,
   "file": "materials/kokuchi/kokuchi-b01.png",
   "thumb": "materials/kokuchi/thumb/kokuchi-b01.png",
-  "left": "materials/kokuchi/kokuchi-b01_left.png"
+  "left": "materials/kokuchi/kokuchi-b01_left.png",
+  "svg": "materials/kokuchi/kokuchi-b01.svg"
  },
  {
   "id": "kokuchi-b02",
@@ -492,7 +499,8 @@
   "h": 727,
   "file": "materials/kokuchi/kokuchi-b02.png",
   "thumb": "materials/kokuchi/thumb/kokuchi-b02.png",
-  "left": "materials/kokuchi/kokuchi-b02_left.png"
+  "left": "materials/kokuchi/kokuchi-b02_left.png",
+  "svg": "materials/kokuchi/kokuchi-b02.svg"
  },
  {
   "id": "kokuchi-b04",
@@ -505,7 +513,8 @@
   "h": 727,
   "file": "materials/kokuchi/kokuchi-b04.png",
   "thumb": "materials/kokuchi/thumb/kokuchi-b04.png",
-  "left": "materials/kokuchi/kokuchi-b04_left.png"
+  "left": "materials/kokuchi/kokuchi-b04_left.png",
+  "svg": "materials/kokuchi/kokuchi-b04.svg"
  },
  {
   "id": "kokuchi-b05",
@@ -518,7 +527,8 @@
   "h": 729,
   "file": "materials/kokuchi/kokuchi-b05.png",
   "thumb": "materials/kokuchi/thumb/kokuchi-b05.png",
-  "left": "materials/kokuchi/kokuchi-b05_left.png"
+  "left": "materials/kokuchi/kokuchi-b05_left.png",
+  "svg": "materials/kokuchi/kokuchi-b05.svg"
  },
  {
   "id": "kokuchi-b06",
@@ -529,7 +539,8 @@
   "h": 726,
   "file": "materials/kokuchi/kokuchi-b06.png",
   "thumb": "materials/kokuchi/thumb/kokuchi-b06.png",
-  "left": "materials/kokuchi/kokuchi-b06_left.png"
+  "left": "materials/kokuchi/kokuchi-b06_left.png",
+  "svg": "materials/kokuchi/kokuchi-b06.svg"
  },
  {
   "id": "kokuchi-b07",
@@ -542,7 +553,8 @@
   "h": 726,
   "file": "materials/kokuchi/kokuchi-b07.png",
   "thumb": "materials/kokuchi/thumb/kokuchi-b07.png",
-  "left": "materials/kokuchi/kokuchi-b07_left.png"
+  "left": "materials/kokuchi/kokuchi-b07_left.png",
+  "svg": "materials/kokuchi/kokuchi-b07.svg"
  },
  {
   "id": "matsuri-b08",
@@ -555,7 +567,8 @@
   "h": 727,
   "file": "materials/matsuri/matsuri-b08.png",
   "thumb": "materials/matsuri/thumb/matsuri-b08.png",
-  "left": "materials/matsuri/matsuri-b08_left.png"
+  "left": "materials/matsuri/matsuri-b08_left.png",
+  "svg": "materials/matsuri/matsuri-b08.svg"
  },
  {
   "id": "matsuri-b09",
@@ -568,7 +581,8 @@
   "h": 727,
   "file": "materials/matsuri/matsuri-b09.png",
   "thumb": "materials/matsuri/thumb/matsuri-b09.png",
-  "left": "materials/matsuri/matsuri-b09_left.png"
+  "left": "materials/matsuri/matsuri-b09_left.png",
+  "svg": "materials/matsuri/matsuri-b09.svg"
  },
  {
   "id": "matsuri-b10",
@@ -581,7 +595,8 @@
   "h": 739,
   "file": "materials/matsuri/matsuri-b10.png",
   "thumb": "materials/matsuri/thumb/matsuri-b10.png",
-  "left": "materials/matsuri/matsuri-b10_left.png"
+  "left": "materials/matsuri/matsuri-b10_left.png",
+  "svg": "materials/matsuri/matsuri-b10.svg"
  },
  {
   "id": "matsuri-b11",
@@ -646,7 +661,8 @@
   "h": 726,
   "file": "materials/kokuchi/kokuchi-b03.png",
   "thumb": "materials/kokuchi/thumb/kokuchi-b03.png",
-  "left": "materials/kokuchi/kokuchi-b03_left.png"
+  "left": "materials/kokuchi/kokuchi-b03_left.png",
+  "svg": "materials/kokuchi/kokuchi-b03.svg"
  },
  {
   "id": "kisetsu-b15",
@@ -738,7 +754,8 @@
   "h": 642,
   "file": "materials/kokuchi/kokuchi-fukidashi.png",
   "thumb": "materials/kokuchi/thumb/kokuchi-fukidashi.png",
-  "left": "materials/kokuchi/kokuchi-fukidashi_left.png"
+  "left": "materials/kokuchi/kokuchi-fukidashi_left.png",
+  "svg": "materials/kokuchi/kokuchi-fukidashi.svg"
  },
  {
   "id": "logo-red",
@@ -750,7 +767,8 @@
   "w": 938,
   "h": 286,
   "file": "materials/logo/logo-red.png",
-  "thumb": "materials/logo/thumb/logo-red.png"
+  "thumb": "materials/logo/thumb/logo-red.png",
+  "svg": "materials/logo/logo-red.svg"
  },
  {
   "id": "logo-navy",
@@ -762,6 +780,7 @@
   "w": 938,
   "h": 286,
   "file": "materials/logo/logo-navy.png",
-  "thumb": "materials/logo/thumb/logo-navy.png"
+  "thumb": "materials/logo/thumb/logo-navy.png",
+  "svg": "materials/logo/logo-navy.svg"
  }
 ]
