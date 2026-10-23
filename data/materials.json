@@ -21,8 +21,8 @@
   "tags": [
    "上半身"
   ],
-  "w": 398,
-  "h": 449,
+  "w": 449,
+  "h": 588,
   "file": "materials/kihon/kihon-joshin.png",
   "thumb": "materials/kihon/thumb/kihon-joshin.png",
   "left": "materials/kihon/kihon-joshin_left.png",
@@ -35,8 +35,8 @@
   "tags": [
    "顔"
   ],
-  "w": 398,
-  "h": 414,
+  "w": 397,
+  "h": 407,
   "file": "materials/kihon/kihon-kao.png",
   "thumb": "materials/kihon/thumb/kihon-kao.png",
   "left": "materials/kihon/kihon-kao_left.png",
