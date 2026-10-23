@@ -1,6 +1,8 @@
 // 素材一覧の表示と絞り込み
 const CAT_LABEL = {kihon:'基本', pose:'24ポーズ', kao:'顔アップ', kokuchi:'告知・お知らせ', matsuri:'お祭り', kisetsu:'季節', iro:'色違い', logo:'ロゴ文字'};
 let items = [], cat = 'all', tag = '';
+// 一覧のデータを画面に入れる前に、HTMLとして解釈されないようにする
+const esc = s => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 
 // 選んだカテゴリにない形は押せないようにし、ボタンに点数を出す
 function updateTags() {
@@ -28,9 +30,9 @@ function render() {
     card.className = 'card';
     const name = r.file.split('/').pop();
     card.innerHTML = `
-      <a class="thumb" href="${r.file}" target="_blank" rel="noopener" title="大きく表示"><img loading="lazy" src="${r.thumb}" alt="${r.title}"></a>
+      <a class="thumb" href="${esc(r.file)}" target="_blank" rel="noopener" title="大きく表示"><img loading="lazy" src="${esc(r.thumb)}" alt="${esc(r.title)}"></a>
       <div class="card-body">
-        <p class="card-title">${r.title}</p>
+        <p class="card-title">${esc(r.title)}</p>
         <p class="card-meta">${CAT_LABEL[r.category] || ''} ・ ${r.w}×${r.h}px</p>
         <div class="card-actions">
           <a class="btn small primary" href="${r.file}" download="${name}">ダウンロード</a>
