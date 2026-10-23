@@ -1,0 +1,767 @@
+[
+ {
+  "id": "kihon-zenshin",
+  "title": "基本の立ち姿(全身)",
+  "category": "kihon",
+  "tags": [
+   "全身",
+   "たて長"
+  ],
+  "w": 449,
+  "h": 727,
+  "file": "materials/kihon/kihon-zenshin.png",
+  "thumb": "materials/kihon/thumb/kihon-zenshin.png",
+  "left": "materials/kihon/kihon-zenshin_left.png"
+ },
+ {
+  "id": "kihon-joshin",
+  "title": "基本の立ち姿(上半身)",
+  "category": "kihon",
+  "tags": [
+   "上半身"
+  ],
+  "w": 398,
+  "h": 449,
+  "file": "materials/kihon/kihon-joshin.png",
+  "thumb": "materials/kihon/thumb/kihon-joshin.png",
+  "left": "materials/kihon/kihon-joshin_left.png"
+ },
+ {
+  "id": "kihon-kao",
+  "title": "基本の顔",
+  "category": "kihon",
+  "tags": [
+   "顔"
+  ],
+  "w": 398,
+  "h": 414,
+  "file": "materials/kihon/kihon-kao.png",
+  "thumb": "materials/kihon/thumb/kihon-kao.png",
+  "left": "materials/kihon/kihon-kao_left.png"
+ },
+ {
+  "id": "pose-01",
+  "title": "おはようございます!",
+  "category": "pose",
+  "tags": [
+   "全身",
+   "たて長"
+  ],
+  "w": 524,
+  "h": 727,
+  "file": "materials/pose/pose-01.png",
+  "thumb": "materials/pose/thumb/pose-01.png",
+  "left": "materials/pose/pose-01_left.png"
+ },
+ {
+  "id": "pose-02",
+  "title": "了解です!",
+  "category": "pose",
+  "tags": [
+   "全身"
+  ],
+  "w": 494,
+  "h": 727,
+  "file": "materials/pose/pose-02.png",
+  "thumb": "materials/pose/thumb/pose-02.png",
+  "left": "materials/pose/pose-02_left.png"
+ },
+ {
+  "id": "pose-03",
+  "title": "よろしくお願いします",
+  "category": "pose",
+  "tags": [
+   "全身"
+  ],
+  "w": 450,
+  "h": 727,
+  "file": "materials/pose/pose-03.png",
+  "thumb": "materials/pose/thumb/pose-03.png",
+  "left": "materials/pose/pose-03_left.png"
+ },
+ {
+  "id": "pose-04",
+  "title": "お疲れさまでした!",
+  "category": "pose",
+  "tags": [
+   "全身"
+  ],
+  "w": 496,
+  "h": 731,
+  "file": "materials/pose/pose-04.png",
+  "thumb": "materials/pose/thumb/pose-04.png",
+  "left": "materials/pose/pose-04_left.png"
+ },
+ {
+  "id": "pose-05",
+  "title": "おやすみなさい〜",
+  "category": "pose",
+  "tags": [
+   "全身"
+  ],
+  "w": 555,
+  "h": 726,
+  "file": "materials/pose/pose-05.png",
+  "thumb": "materials/pose/thumb/pose-05.png",
+  "left": "materials/pose/pose-05_left.png"
+ },
+ {
+  "id": "pose-06",
+  "title": "ありがとう〜!",
+  "category": "pose",
+  "tags": [
+   "全身"
+  ],
+  "w": 539,
+  "h": 727,
+  "file": "materials/pose/pose-06.png",
+  "thumb": "materials/pose/thumb/pose-06.png",
+  "left": "materials/pose/pose-06_left.png"
+ },
+ {
+  "id": "pose-07",
+  "title": "情で動け!!",
+  "category": "pose",
+  "tags": [
+   "全身"
+  ],
+  "w": 569,
+  "h": 727,
+  "file": "materials/pose/pose-07.png",
+  "thumb": "materials/pose/thumb/pose-07.png",
+  "left": "materials/pose/pose-07_left.png"
+ },
+ {
+  "id": "pose-08",
+  "title": "チーム浜北!!",
+  "category": "pose",
+  "tags": [
+   "全身",
+   "横長"
+  ],
+  "w": 1003,
+  "h": 727,
+  "file": "materials/pose/pose-08.png",
+  "thumb": "materials/pose/thumb/pose-08.png",
+  "left": "materials/pose/pose-08_left.png"
+ },
+ {
+  "id": "pose-09",
+  "title": "やらまいか!",
+  "category": "pose",
+  "tags": [
+   "全身",
+   "たて長"
+  ],
+  "w": 547,
+  "h": 734,
+  "file": "materials/pose/pose-09.png",
+  "thumb": "materials/pose/thumb/pose-09.png",
+  "left": "materials/pose/pose-09_left.png"
+ },
+ {
+  "id": "pose-10",
+  "title": "乾杯!",
+  "category": "pose",
+  "tags": [
+   "全身"
+  ],
+  "w": 629,
+  "h": 708,
+  "file": "materials/pose/pose-10.png",
+  "thumb": "materials/pose/thumb/pose-10.png",
+  "left": "materials/pose/pose-10_left.png"
+ },
+ {
+  "id": "pose-11",
+  "title": "おめでとう!",
+  "category": "pose",
+  "tags": [
+   "全身"
+  ],
+  "w": 843,
+  "h": 727,
+  "file": "materials/pose/pose-11.png",
+  "thumb": "materials/pose/thumb/pose-11.png",
+  "left": "materials/pose/pose-11_left.png"
+ },
+ {
+  "id": "pose-12",
+  "title": "なるほど!",
+  "category": "pose",
+  "tags": [
+   "全身"
+  ],
+  "w": 504,
+  "h": 729,
+  "file": "materials/pose/pose-12.png",
+  "thumb": "materials/pose/thumb/pose-12.png",
+  "left": "materials/pose/pose-12_left.png"
+ },
+ {
+  "id": "pose-13",
+  "title": "さすがっす!",
+  "category": "pose",
+  "tags": [
+   "全身"
+  ],
+  "w": 595,
+  "h": 727,
+  "file": "materials/pose/pose-13.png",
+  "thumb": "materials/pose/thumb/pose-13.png",
+  "left": "materials/pose/pose-13_left.png"
+ },
+ {
+  "id": "pose-14",
+  "title": "いいね!",
+  "category": "pose",
+  "tags": [
+   "全身"
+  ],
+  "w": 476,
+  "h": 727,
+  "file": "materials/pose/pose-14.png",
+  "thumb": "materials/pose/thumb/pose-14.png",
+  "left": "materials/pose/pose-14_left.png"
+ },
+ {
+  "id": "pose-15",
+  "title": "だら?",
+  "category": "pose",
+  "tags": [
+   "全身",
+   "横長"
+  ],
+  "w": 801,
+  "h": 622,
+  "file": "materials/pose/pose-15.png",
+  "thumb": "materials/pose/thumb/pose-15.png",
+  "left": "materials/pose/pose-15_left.png"
+ },
+ {
+  "id": "pose-16",
+  "title": "マジっすか!?",
+  "category": "pose",
+  "tags": [
+   "全身",
+   "たて長"
+  ],
+  "w": 524,
+  "h": 710,
+  "file": "materials/pose/pose-16.png",
+  "thumb": "materials/pose/thumb/pose-16.png",
+  "left": "materials/pose/pose-16_left.png"
+ },
+ {
+  "id": "pose-17",
+  "title": "出席します!",
+  "category": "pose",
+  "tags": [
+   "全身",
+   "たて長"
+  ],
+  "w": 488,
+  "h": 734,
+  "file": "materials/pose/pose-17.png",
+  "thumb": "materials/pose/thumb/pose-17.png",
+  "left": "materials/pose/pose-17_left.png"
+ },
+ {
+  "id": "pose-18",
+  "title": "すみません、欠席です…",
+  "category": "pose",
+  "tags": [
+   "全身"
+  ],
+  "w": 610,
+  "h": 718,
+  "file": "materials/pose/pose-18.png",
+  "thumb": "materials/pose/thumb/pose-18.png",
+  "left": "materials/pose/pose-18_left.png"
+ },
+ {
+  "id": "pose-19",
+  "title": "ちょっと遅れます!",
+  "category": "pose",
+  "tags": [
+   "全身"
+  ],
+  "w": 647,
+  "h": 720,
+  "file": "materials/pose/pose-19.png",
+  "thumb": "materials/pose/thumb/pose-19.png",
+  "left": "materials/pose/pose-19_left.png"
+ },
+ {
+  "id": "pose-20",
+  "title": "今向かってます",
+  "category": "pose",
+  "tags": [
+   "全身",
+   "横長"
+  ],
+  "w": 1002,
+  "h": 731,
+  "file": "materials/pose/pose-20.png",
+  "thumb": "materials/pose/thumb/pose-20.png",
+  "left": "materials/pose/pose-20_left.png"
+ },
+ {
+  "id": "pose-21",
+  "title": "手伝います!",
+  "category": "pose",
+  "tags": [
+   "全身"
+  ],
+  "w": 613,
+  "h": 727,
+  "file": "materials/pose/pose-21.png",
+  "thumb": "materials/pose/thumb/pose-21.png",
+  "left": "materials/pose/pose-21_left.png"
+ },
+ {
+  "id": "pose-22",
+  "title": "設営完了!",
+  "category": "pose",
+  "tags": [
+   "全身",
+   "法被"
+  ],
+  "w": 626,
+  "h": 745,
+  "file": "materials/pose/pose-22.png",
+  "thumb": "materials/pose/thumb/pose-22.png",
+  "left": "materials/pose/pose-22_left.png"
+ },
+ {
+  "id": "pose-23",
+  "title": "飛竜まつり、来てね!",
+  "category": "pose",
+  "tags": [
+   "全身",
+   "法被"
+  ],
+  "w": 707,
+  "h": 761,
+  "file": "materials/pose/pose-23.png",
+  "thumb": "materials/pose/thumb/pose-23.png",
+  "left": "materials/pose/pose-23_left.png"
+ },
+ {
+  "id": "pose-24",
+  "title": "また次回!",
+  "category": "pose",
+  "tags": [
+   "全身"
+  ],
+  "w": 483,
+  "h": 727,
+  "file": "materials/pose/pose-24.png",
+  "thumb": "materials/pose/thumb/pose-24.png",
+  "left": "materials/pose/pose-24_left.png"
+ },
+ {
+  "id": "kao-01",
+  "title": "顔アップ・にっこり",
+  "category": "kao",
+  "tags": [
+   "顔",
+   "上半身"
+  ],
+  "w": 435,
+  "h": 539,
+  "file": "materials/kao/kao-01.png",
+  "thumb": "materials/kao/thumb/kao-01.png",
+  "left": "materials/kao/kao-01_left.png"
+ },
+ {
+  "id": "kao-02",
+  "title": "顔アップ・OK",
+  "category": "kao",
+  "tags": [
+   "顔",
+   "上半身"
+  ],
+  "w": 445,
+  "h": 494,
+  "file": "materials/kao/kao-02.png",
+  "thumb": "materials/kao/thumb/kao-02.png",
+  "left": "materials/kao/kao-02_left.png"
+ },
+ {
+  "id": "kao-03",
+  "title": "顔アップ・いいね",
+  "category": "kao",
+  "tags": [
+   "顔",
+   "上半身"
+  ],
+  "w": 427,
+  "h": 476,
+  "file": "materials/kao/kao-03.png",
+  "thumb": "materials/kao/thumb/kao-03.png",
+  "left": "materials/kao/kao-03_left.png"
+ },
+ {
+  "id": "kao-04",
+  "title": "顔アップ・感動",
+  "category": "kao",
+  "tags": [
+   "顔",
+   "上半身"
+  ],
+  "w": 563,
+  "h": 569,
+  "file": "materials/kao/kao-04.png",
+  "thumb": "materials/kao/thumb/kao-04.png",
+  "left": "materials/kao/kao-04_left.png"
+ },
+ {
+  "id": "kao-05",
+  "title": "顔アップ・びっくり",
+  "category": "kao",
+  "tags": [
+   "顔",
+   "上半身"
+  ],
+  "w": 516,
+  "h": 524,
+  "file": "materials/kao/kao-05.png",
+  "thumb": "materials/kao/thumb/kao-05.png",
+  "left": "materials/kao/kao-05_left.png"
+ },
+ {
+  "id": "kao-06",
+  "title": "顔アップ・キラキラ",
+  "category": "kao",
+  "tags": [
+   "顔",
+   "上半身"
+  ],
+  "w": 491,
+  "h": 595,
+  "file": "materials/kao/kao-06.png",
+  "thumb": "materials/kao/thumb/kao-06.png",
+  "left": "materials/kao/kao-06_left.png"
+ },
+ {
+  "id": "kao-07",
+  "title": "顔アップ・あせ",
+  "category": "kao",
+  "tags": [
+   "顔",
+   "上半身"
+  ],
+  "w": 468,
+  "h": 610,
+  "file": "materials/kao/kao-07.png",
+  "thumb": "materials/kao/thumb/kao-07.png",
+  "left": "materials/kao/kao-07_left.png"
+ },
+ {
+  "id": "kao-08",
+  "title": "顔アップ・ひらめき",
+  "category": "kao",
+  "tags": [
+   "顔",
+   "上半身"
+  ],
+  "w": 454,
+  "h": 504,
+  "file": "materials/kao/kao-08.png",
+  "thumb": "materials/kao/thumb/kao-08.png",
+  "left": "materials/kao/kao-08_left.png"
+ },
+ {
+  "id": "kokuchi-b01",
+  "title": "指さし(右)",
+  "category": "kokuchi",
+  "tags": [],
+  "w": 515,
+  "h": 726,
+  "file": "materials/kokuchi/kokuchi-b01.png",
+  "thumb": "materials/kokuchi/thumb/kokuchi-b01.png",
+  "left": "materials/kokuchi/kokuchi-b01_left.png"
+ },
+ {
+  "id": "kokuchi-b02",
+  "title": "指さし(上)",
+  "category": "kokuchi",
+  "tags": [],
+  "w": 474,
+  "h": 727,
+  "file": "materials/kokuchi/kokuchi-b02.png",
+  "thumb": "materials/kokuchi/thumb/kokuchi-b02.png",
+  "left": "materials/kokuchi/kokuchi-b02_left.png"
+ },
+ {
+  "id": "kokuchi-b04",
+  "title": "看板を持つ(白い看板)",
+  "category": "kokuchi",
+  "tags": [
+   "文字入れOK"
+  ],
+  "w": 511,
+  "h": 727,
+  "file": "materials/kokuchi/kokuchi-b04.png",
+  "thumb": "materials/kokuchi/thumb/kokuchi-b04.png",
+  "left": "materials/kokuchi/kokuchi-b04_left.png"
+ },
+ {
+  "id": "kokuchi-b05",
+  "title": "プラカードを掲げる",
+  "category": "kokuchi",
+  "tags": [
+   "文字入れOK"
+  ],
+  "w": 492,
+  "h": 729,
+  "file": "materials/kokuchi/kokuchi-b05.png",
+  "thumb": "materials/kokuchi/thumb/kokuchi-b05.png",
+  "left": "materials/kokuchi/kokuchi-b05_left.png"
+ },
+ {
+  "id": "kokuchi-b06",
+  "title": "メガホンで呼びかけ",
+  "category": "kokuchi",
+  "tags": [],
+  "w": 646,
+  "h": 726,
+  "file": "materials/kokuchi/kokuchi-b06.png",
+  "thumb": "materials/kokuchi/thumb/kokuchi-b06.png",
+  "left": "materials/kokuchi/kokuchi-b06_left.png"
+ },
+ {
+  "id": "kokuchi-b07",
+  "title": "巻物を広げる",
+  "category": "kokuchi",
+  "tags": [
+   "文字入れOK"
+  ],
+  "w": 516,
+  "h": 726,
+  "file": "materials/kokuchi/kokuchi-b07.png",
+  "thumb": "materials/kokuchi/thumb/kokuchi-b07.png",
+  "left": "materials/kokuchi/kokuchi-b07_left.png"
+ },
+ {
+  "id": "matsuri-b08",
+  "title": "法被姿(立ち姿)",
+  "category": "matsuri",
+  "tags": [
+   "法被"
+  ],
+  "w": 449,
+  "h": 727,
+  "file": "materials/matsuri/matsuri-b08.png",
+  "thumb": "materials/matsuri/thumb/matsuri-b08.png",
+  "left": "materials/matsuri/matsuri-b08_left.png"
+ },
+ {
+  "id": "matsuri-b09",
+  "title": "法被姿(手を振る)",
+  "category": "matsuri",
+  "tags": [
+   "法被"
+  ],
+  "w": 493,
+  "h": 727,
+  "file": "materials/matsuri/matsuri-b09.png",
+  "thumb": "materials/matsuri/thumb/matsuri-b09.png",
+  "left": "materials/matsuri/matsuri-b09_left.png"
+ },
+ {
+  "id": "matsuri-b10",
+  "title": "わっしょい!",
+  "category": "matsuri",
+  "tags": [
+   "法被"
+  ],
+  "w": 533,
+  "h": 739,
+  "file": "materials/matsuri/matsuri-b10.png",
+  "thumb": "materials/matsuri/thumb/matsuri-b10.png",
+  "left": "materials/matsuri/matsuri-b10_left.png"
+ },
+ {
+  "id": "matsuri-b11",
+  "title": "凧揚げ",
+  "category": "matsuri",
+  "tags": [
+   "法被",
+   "凧"
+  ],
+  "w": 727,
+  "h": 743,
+  "file": "materials/matsuri/matsuri-b11.png",
+  "thumb": "materials/matsuri/thumb/matsuri-b11.png",
+  "left": "materials/matsuri/matsuri-b11_left.png"
+ },
+ {
+  "id": "matsuri-b12",
+  "title": "花火を見上げる",
+  "category": "matsuri",
+  "tags": [
+   "花火"
+  ],
+  "w": 732,
+  "h": 754,
+  "file": "materials/matsuri/matsuri-b12.png",
+  "thumb": "materials/matsuri/thumb/matsuri-b12.png",
+  "left": "materials/matsuri/matsuri-b12_left.png"
+ },
+ {
+  "id": "matsuri-b13",
+  "title": "提灯を持つ",
+  "category": "matsuri",
+  "tags": [
+   "法被"
+  ],
+  "w": 612,
+  "h": 727,
+  "file": "materials/matsuri/matsuri-b13.png",
+  "thumb": "materials/matsuri/thumb/matsuri-b13.png",
+  "left": "materials/matsuri/matsuri-b13_left.png"
+ },
+ {
+  "id": "matsuri-b14",
+  "title": "天竜川でひとやすみ",
+  "category": "matsuri",
+  "tags": [
+   "横長",
+   "天竜川"
+  ],
+  "w": 949,
+  "h": 761,
+  "file": "materials/matsuri/matsuri-b14.png",
+  "thumb": "materials/matsuri/thumb/matsuri-b14.png",
+  "left": "materials/matsuri/matsuri-b14_left.png"
+ },
+ {
+  "id": "kokuchi-b03",
+  "title": "指さし(下)",
+  "category": "kokuchi",
+  "tags": [],
+  "w": 457,
+  "h": 726,
+  "file": "materials/kokuchi/kokuchi-b03.png",
+  "thumb": "materials/kokuchi/thumb/kokuchi-b03.png",
+  "left": "materials/kokuchi/kokuchi-b03_left.png"
+ },
+ {
+  "id": "kisetsu-b15",
+  "title": "お正月(鏡もち)",
+  "category": "kisetsu",
+  "tags": [
+   "冬"
+  ],
+  "w": 687,
+  "h": 727,
+  "file": "materials/kisetsu/kisetsu-b15.png",
+  "thumb": "materials/kisetsu/thumb/kisetsu-b15.png",
+  "left": "materials/kisetsu/kisetsu-b15_left.png"
+ },
+ {
+  "id": "kisetsu-b16",
+  "title": "春(桜)",
+  "category": "kisetsu",
+  "tags": [
+   "春"
+  ],
+  "w": 683,
+  "h": 727,
+  "file": "materials/kisetsu/kisetsu-b16.png",
+  "thumb": "materials/kisetsu/thumb/kisetsu-b16.png",
+  "left": "materials/kisetsu/kisetsu-b16_left.png"
+ },
+ {
+  "id": "kisetsu-b17",
+  "title": "夏(うちわ・かき氷)",
+  "category": "kisetsu",
+  "tags": [
+   "夏"
+  ],
+  "w": 534,
+  "h": 727,
+  "file": "materials/kisetsu/kisetsu-b17.png",
+  "thumb": "materials/kisetsu/thumb/kisetsu-b17.png",
+  "left": "materials/kisetsu/kisetsu-b17_left.png"
+ },
+ {
+  "id": "kisetsu-b18",
+  "title": "秋(紅葉・お月見)",
+  "category": "kisetsu",
+  "tags": [
+   "秋"
+  ],
+  "w": 694,
+  "h": 727,
+  "file": "materials/kisetsu/kisetsu-b18.png",
+  "thumb": "materials/kisetsu/thumb/kisetsu-b18.png",
+  "left": "materials/kisetsu/kisetsu-b18_left.png"
+ },
+ {
+  "id": "kisetsu-b19",
+  "title": "ハロウィン",
+  "category": "kisetsu",
+  "tags": [
+   "秋"
+  ],
+  "w": 451,
+  "h": 743,
+  "file": "materials/kisetsu/kisetsu-b19.png",
+  "thumb": "materials/kisetsu/thumb/kisetsu-b19.png",
+  "left": "materials/kisetsu/kisetsu-b19_left.png"
+ },
+ {
+  "id": "kisetsu-b20",
+  "title": "クリスマス",
+  "category": "kisetsu",
+  "tags": [
+   "冬"
+  ],
+  "w": 457,
+  "h": 727,
+  "file": "materials/kisetsu/kisetsu-b20.png",
+  "thumb": "materials/kisetsu/thumb/kisetsu-b20.png",
+  "left": "materials/kisetsu/kisetsu-b20_left.png"
+ },
+ {
+  "id": "kokuchi-fukidashi",
+  "title": "空っぽの吹き出し付き",
+  "category": "kokuchi",
+  "tags": [
+   "文字入れOK",
+   "横長"
+  ],
+  "w": 875,
+  "h": 642,
+  "file": "materials/kokuchi/kokuchi-fukidashi.png",
+  "thumb": "materials/kokuchi/thumb/kokuchi-fukidashi.png",
+  "left": "materials/kokuchi/kokuchi-fukidashi_left.png"
+ },
+ {
+  "id": "logo-red",
+  "title": "ロゴ文字(赤)",
+  "category": "logo",
+  "tags": [
+   "文字"
+  ],
+  "w": 938,
+  "h": 286,
+  "file": "materials/logo/logo-red.png",
+  "thumb": "materials/logo/thumb/logo-red.png"
+ },
+ {
+  "id": "logo-navy",
+  "title": "ロゴ文字(紺)",
+  "category": "logo",
+  "tags": [
+   "文字"
+  ],
+  "w": 938,
+  "h": 286,
+  "file": "materials/logo/logo-navy.png",
+  "thumb": "materials/logo/thumb/logo-navy.png"
+ }
+]
