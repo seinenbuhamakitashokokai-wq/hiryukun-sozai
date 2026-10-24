@@ -2,8 +2,8 @@
 
 遠州はまきた飛竜まつりの「飛竜くん」のフリー素材サイトです。
 
-- サイト: https://nakatanikikou.github.io/hiryukun-sozai/
-- 利用ガイドライン: https://nakatanikikou.github.io/hiryukun-sozai/guideline.html
+- サイト: https://seinenbuhamakitashokokai-wq.github.io/hiryukun-sozai/
+- 利用ガイドライン: https://seinenbuhamakitashokokai-wq.github.io/hiryukun-sozai/guideline.html
 
 素材(`materials/` 以下の画像)は、利用ガイドラインの範囲で無料で使えます。
 商用で使うときは、サイトの連絡フォームから一言お知らせください。
