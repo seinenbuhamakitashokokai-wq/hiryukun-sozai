@@ -67,3 +67,9 @@ const form = document.getElementById('form-link');
 if (form && form.getAttribute('href') === 'FORM_URL') {
   form.removeAttribute('href'); form.textContent = '連絡フォーム(準備中)'; form.classList.remove('primary'); form.style.opacity = '.6';
 }
+
+// どの素材がダウンロードされたかをGoogleアナリティクスで数える(PNG・SVGは自動では数えられないため)
+document.addEventListener('click', e => {
+  const a = e.target.closest('a[download]');
+  if (a && typeof gtag === 'function') gtag('event', 'file_download', {file_name: a.getAttribute('download'), link_url: a.href});
+});
