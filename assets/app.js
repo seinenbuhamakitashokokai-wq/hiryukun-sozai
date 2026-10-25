@@ -1,5 +1,5 @@
 // 素材一覧の表示と絞り込み
-const CAT_LABEL = {kihon:'基本', pose:'24ポーズ', kao:'顔アップ', kokuchi:'告知・お知らせ', matsuri:'お祭り', kisetsu:'季節', iro:'色違い', logo:'ロゴ文字'};
+const CAT_LABEL = {kihon:'基本', pose:'24ポーズ', kao:'顔アップ', kokuchi:'告知・お知らせ', matsuri:'お祭り', kisetsu:'季節', iro:'色違い', nurie:'ぬりえ', logo:'ロゴ文字'};
 let items = [], cat = 'all', tag = '';
 // 一覧のデータを画面に入れる前に、HTMLとして解釈されないようにする
 const esc = s => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -38,6 +38,7 @@ function render() {
           <a class="btn small primary" href="${r.file}" download="${name}">ダウンロード</a>
           ${r.left ? `<a class="btn small" href="${r.left}" download="${r.left.split('/').pop()}">左向き</a>` : ''}
           ${r.svg ? `<a class="btn small" href="${r.svg}" download="${r.svg.split('/').pop()}" title="大きく印刷しても荒れない形式">SVG</a>` : ''}
+          ${r.pdf ? `<a class="btn small" href="${r.pdf}" download="${r.pdf.split('/').pop()}" title="A4でそのまま印刷できる">A4印刷用PDF</a>` : ''}
         </div>
       </div>`;
     grid.appendChild(card);

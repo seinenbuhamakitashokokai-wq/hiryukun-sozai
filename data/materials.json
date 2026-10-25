@@ -1061,5 +1061,109 @@
   "file": "materials/iro/iro-b22-rainbow.png",
   "thumb": "materials/iro/thumb/iro-b22-rainbow.png",
   "left": "materials/iro/iro-b22-rainbow_left.png"
+ },
+ {
+  "id": "nurie-01",
+  "title": "ぬりえ:基本の立ち姿",
+  "category": "nurie",
+  "tags": [
+   "ぬりえ"
+  ],
+  "w": 1355,
+  "h": 2120,
+  "file": "materials/nurie/nurie-01.png",
+  "thumb": "materials/nurie/thumb/nurie-01.png",
+  "pdf": "materials/nurie/nurie-01.pdf"
+ },
+ {
+  "id": "nurie-02",
+  "title": "ぬりえ:両手をあげて、おはよう!",
+  "category": "nurie",
+  "tags": [
+   "ぬりえ"
+  ],
+  "w": 1562,
+  "h": 2120,
+  "file": "materials/nurie/nurie-02.png",
+  "thumb": "materials/nurie/thumb/nurie-02.png",
+  "pdf": "materials/nurie/nurie-02.pdf"
+ },
+ {
+  "id": "nurie-03",
+  "title": "ぬりえ:ハートでありがとう",
+  "category": "nurie",
+  "tags": [
+   "ぬりえ"
+  ],
+  "w": 1603,
+  "h": 2120,
+  "file": "materials/nurie/nurie-03.png",
+  "thumb": "materials/nurie/thumb/nurie-03.png",
+  "pdf": "materials/nurie/nurie-03.pdf"
+ },
+ {
+  "id": "nurie-04",
+  "title": "ぬりえ:いいね!",
+  "category": "nurie",
+  "tags": [
+   "ぬりえ"
+  ],
+  "w": 1429,
+  "h": 2120,
+  "file": "materials/nurie/nurie-04.png",
+  "thumb": "materials/nurie/thumb/nurie-04.png",
+  "pdf": "materials/nurie/nurie-04.pdf"
+ },
+ {
+  "id": "nurie-05",
+  "title": "ぬりえ:法被で手をふる",
+  "category": "nurie",
+  "tags": [
+   "ぬりえ"
+  ],
+  "w": 1476,
+  "h": 2120,
+  "file": "materials/nurie/nurie-05.png",
+  "thumb": "materials/nurie/thumb/nurie-05.png",
+  "pdf": "materials/nurie/nurie-05.pdf"
+ },
+ {
+  "id": "nurie-06",
+  "title": "ぬりえ:凧揚げ",
+  "category": "nurie",
+  "tags": [
+   "ぬりえ"
+  ],
+  "w": 2077,
+  "h": 2120,
+  "file": "materials/nurie/nurie-06.png",
+  "thumb": "materials/nurie/thumb/nurie-06.png",
+  "pdf": "materials/nurie/nurie-06.pdf"
+ },
+ {
+  "id": "nurie-07",
+  "title": "ぬりえ:春の桜",
+  "category": "nurie",
+  "tags": [
+   "ぬりえ"
+  ],
+  "w": 1999,
+  "h": 2120,
+  "file": "materials/nurie/nurie-07.png",
+  "thumb": "materials/nurie/thumb/nurie-07.png",
+  "pdf": "materials/nurie/nurie-07.pdf"
+ },
+ {
+  "id": "nurie-08",
+  "title": "ぬりえ:クリスマス",
+  "category": "nurie",
+  "tags": [
+   "ぬりえ"
+  ],
+  "w": 1377,
+  "h": 2120,
+  "file": "materials/nurie/nurie-08.png",
+  "thumb": "materials/nurie/thumb/nurie-08.png",
+  "pdf": "materials/nurie/nurie-08.pdf"
  }
 ]
