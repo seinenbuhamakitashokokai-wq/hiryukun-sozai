@@ -58,6 +58,7 @@ section{padding-block:28px}
 footer{background:var(--navy);color:#fff;margin-top:20px;padding-block:18px;font-size:.9rem}
 footer a{color:#ffe9b8}
 footer p{margin:.2em 0}
+footer .links a{display:inline-block;padding:4px 0}
 
 .doc{max-width:760px}
 .doc h2{margin-top:1.4em}
